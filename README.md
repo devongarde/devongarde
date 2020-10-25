@@ -1,7 +1,5 @@
 ### Hi there
 
-I'm Dylan Harris. My current project is the static site checker, which I built to help address the gadzillion issues on my website, arts & ego, found at https://dylanharris.org/ . Please go mosey there.
-
-Fun facts about me ? Pah!
+I'm Dylan Harris. My current project is the static site checker, which I built to help address the myriad issues on my website, [arts & ego] (https://dylanharris.org/). At more than 300,000 pages it's a little too big for most existing utilities to analyse effectively.
 
 :-)
