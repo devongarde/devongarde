@@ -1,5 +1,8 @@
-### Hi there
+### hello / bonjour / moien / hallo
 
-I'm Dylan Harris. My current project is [ssc](https://github.com/devongarde/ssc) ([wiki](https://github.com/devongarde/ssc/wiki)), which I built to help address the myriad issues on my website, [arts & ego](https://dylanharris.org/).
+I'm [Dylan Harris](https://dylanharris.org/and/and/contact.shtml). I'm building a static site checker to identify website issues.
 
-:-)
+[repo](https://github.com/devongarde/ssc) /
+[wiki](https://github.com/devongarde/ssc/wiki) /
+[docs](https://dylanharris.org/blog/2020/2020v.shtml) /
+[site](https://dylanharris.org/)
