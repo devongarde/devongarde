@@ -1,6 +1,6 @@
 ### hello / bonjour / moien / hallo
 
-I'm [Dylan Harris](https://dylanharris.org/and/and/contact.shtml). I'm building a static site checker to nitpick website.
+I'm [Dylan Harris](https://dylanharris.org/and/and/contact.shtml). I'm building a static site checker to nitpick websites.
 
 [repo](https://github.com/devongarde/ssc) /
 [wiki](https://github.com/devongarde/ssc/wiki) /
